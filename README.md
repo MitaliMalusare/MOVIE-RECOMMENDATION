@@ -20,3 +20,9 @@ We calculated the cosine similarity between the vector representations of the mo
 
 Streamlit API Interface
 To provide a user-friendly interface, we integrated Streamlit to build a simple API. Users can interact with the system, explore movie recommendations, and receive movie suggestions based on the closest similarity to the selected movie.
+
+![image](https://github.com/user-attachments/assets/96f13940-8e22-495c-8c4f-5a57b8978fc7)
+
+![image](https://github.com/user-attachments/assets/d97d05d2-a023-49d5-932f-b2e5640a42ff)
+
+
